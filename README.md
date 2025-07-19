@@ -12,8 +12,8 @@ A penetration testing tool that identifies writable web directories via HTTP PUT
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/put-directory-scanner.git
-cd put-directory-scanner
+git clone https://github.com/x00byte/PutScanner.git
+cd PutScanner
 ```
 
 ## 🛠️ Usage
